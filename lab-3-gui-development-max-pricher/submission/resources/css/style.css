@@ -1,0 +1,17 @@
+.body {
+    width: 100%;
+}
+
+.home-photo {
+    width: 40vw;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.social-icon {
+    width: 50px;
+    height: auto;
+    margin: 5px;
+}
+
